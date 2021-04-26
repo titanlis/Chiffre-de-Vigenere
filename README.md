@@ -24,5 +24,6 @@
                         If the decryption is unsuccessful, you can change the order of characters in the alphabet,
                         the alphabet itself and the length of the key until the result is satisfactory.</p>
                         
-                        ![1](https://user-images.githubusercontent.com/33245539/116040025-b01d9a00-a695-11eb-8fa7-6deab08035f2.png)
-![2](https://user-images.githubusercontent.com/33245539/116040033-b14ec700-a695-11eb-96c6-a546dea315e4.png)
+ ![1](https://user-images.githubusercontent.com/33245539/116040025-b01d9a00-a695-11eb-8fa7-6deab08035f2.png)
+                        
+ ![2](https://user-images.githubusercontent.com/33245539/116040033-b14ec700-a695-11eb-96c6-a546dea315e4.png)
